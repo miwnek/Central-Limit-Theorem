@@ -1,1 +1,1 @@
-# Central Limit Teorem
+# Central Limit Theorem
